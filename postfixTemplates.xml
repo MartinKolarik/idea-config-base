@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="filter@userDefined" key=".eq" provider="builtin.js" language-level="ES5" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$EXPR$ = $EXPR$" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

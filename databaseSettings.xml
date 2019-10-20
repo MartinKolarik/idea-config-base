@@ -1,0 +1,12 @@
+<application>
+  <component name="DatabaseSettings" version="4">
+    <option name="page-size" value="1000" />
+    <option name="execute-inside-option" value="5" />
+    <option name="execute-outside-option" value="2" />
+    <exec-options>
+      <exec-option exec-inside="5" exec-outside="2" />
+      <exec-option />
+      <exec-option />
+    </exec-options>
+  </component>
+</application>
